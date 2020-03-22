@@ -18,3 +18,23 @@
 - Огромного размера изображения, которые на странице имеют небольшие размеры в пикселях, а на их загрузку уходит много времени (600 - 900 мс)
 
 ![Огромные изображения](./screenshorts/large-size-img.jpg)
+
+## Вкладка Performance
+
+[Профиль загрузки страницы](https://github.com/mgkOV/devtools-site-inspection/blob/master/Profile-20200322T190442.json)
+
+- First Paint 2659,2 мс
+
+- First Meaningful Paint 3159,2 мс
+
+- DOM Content Loaded 4018,8 мс
+
+- Load 44424,4 мс
+
+- Loading 67 мс
+
+- Scripting 1768 мс
+
+- Rendering 1091 мс
+
+- Painting 171 мс
