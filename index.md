@@ -38,3 +38,15 @@
 - Rendering 1091 мс
 
 - Painting 171 мс
+
+![Объём неиспользованного CSS](./screenshorts/performance-summary.jpg)
+
+## Вкладка Coverage
+
+- Объём неиспользованного CSS в ходе загрузки страницы - 391 Кб
+
+![Объём неиспользованного CSS](./screenshorts/unused-css.jpg)
+
+- Объём неиспользованного JS в ходе загрузки страницы - 1.4 Мб
+
+![Объём неиспользованного CSS](./screenshorts/unused-js.jpg)
